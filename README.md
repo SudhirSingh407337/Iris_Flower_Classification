@@ -1,7 +1,12 @@
-# Iris Flower Classification
+# 🌸 Iris Flower Classification  
 
-## Project Overview
-This project demonstrates how to classify iris flowers based on their sepal and petal measurements using machine learning techniques. The main focus is on feature engineering approaches including one-hot encoding, polynomial feature generation, and feature scaling to improve classification performance.
+## 📌 Project Overview  
+This project demonstrates how to **classify iris flowers** based on their **sepal and petal measurements** using machine learning techniques.  
+
+- 🛠 **Feature Engineering** – applied techniques such as one-hot encoding, polynomial feature generation, and feature scaling  
+- 🤖 **Machine Learning** – trained classification models to distinguish between different iris species  
+- 🎯 **Goal** – improve prediction performance and understand how feature transformations impact model accuracy  
+
 
 ## Dataset
 The classic Iris dataset contains 150 samples of iris flowers, each with four features:
@@ -45,7 +50,7 @@ Both models achieve high accuracy in classifying iris species, with the feature 
 The analysis shows which features (including generated polynomial features) are most important for distinguishing between iris species, providing insights into the botanical characteristics that best differentiate these flowers.
 
 ## Requirements
-- Python 3.x
+- Python
 - pandas
 - numpy
 - matplotlib
